@@ -9,7 +9,10 @@ Authors:
 
 ## Hands-On Workshops
 
-- Hands-On Workshop: Leveraging Dynamic Programming for Reinforcement Learning (12.12.2024)
+Click on the link to switch to the specific workshop readmes:
+
+- [Leveraging Dynamic Programming for Reinforcement Learning](dynamic_programming_for_rl/README.md) (12.12.2024)
+
 
 ## Environment Setup
 
