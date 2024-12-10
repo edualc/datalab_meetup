@@ -2,7 +2,7 @@
 
 Repository for the DataLab meetup hands-on workshops.
 
-Authors:
+For feedback, please reach out to:
 - Pavel Sulimov [suli@zhaw.ch](suli@zhaw.ch)
 - Claude Lehmann [lehl@zhaw.ch](lehl@zhaw.ch)
 
