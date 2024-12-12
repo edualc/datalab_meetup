@@ -8,12 +8,16 @@ To stay ahead of this trend and deepen our understanding of RL algorithms, it's 
 Join us for an evening dedicated to DP, where we'll explore the theory, tackle quizzes, and solve coding challenges from [Leetcode](https://leetcode.com/problemset/) and [Advent of Code](https://adventofcode.com/) (because Christmas is coming 🙂).
 Bring your laptops if you'd like to code along, and enjoy an evening of learning, coding, and discussions, complete with drinks and snacks!
 
+## Presentation Link
+
+[https://docs.google.com/presentation/d/1tueGZWbVBnp253c3CTmqgXRn_THMzilAVjqyMQrJ4-k/edit?usp=sharing](Presentation on Google Drive)
+
 
 ## Dynamic Programming Puzzles
 
 We structure the different problems into a number of notebooks that can be found in this directory, or by clicking on the links below:
 
-- [MergeSort](merge_sort.ipynb): Introductory Example
+- [Fibonacci](fibonacci.ipynb): Introductory Example calculating Fibonacci Numbers (0, 1, 1, 2, 3, 5, 8, 13, ...)
 - [LeetCode #121: Best Time to Buy and Sell Stock - I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): 1st Puzzle (rated "easy")
 - [LeetCode #122: Best Time to Buy and Sell Stock - II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii): 2nd Puzzle (rated "medium")
 - [LeetCode #123: Best Time to Buy and Sell Stock - III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii): 3rd Puzzle (rated "hard")
